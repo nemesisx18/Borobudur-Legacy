@@ -1,0 +1,840 @@
+fileFormatVersion: 2
+guid: e5e14534a52c12e4a86bfafa5a05ec38
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6842605474499937327
+    second: Sprite BEE-MO_0
+  - first:
+      213: -6448662721634355008
+    second: Sprite BEE-MO_1
+  - first:
+      213: -886928696137164479
+    second: Sprite BEE-MO_2
+  - first:
+      213: 985050117230242548
+    second: Sprite BEE-MO_3
+  - first:
+      213: -5804774206274592006
+    second: Sprite BEE-MO_4
+  - first:
+      213: -1818020676041159365
+    second: Sprite BEE-MO_5
+  - first:
+      213: -4731436990700774864
+    second: Sprite BEE-MO_6
+  - first:
+      213: -6847220525287430211
+    second: Sprite BEE-MO_7
+  - first:
+      213: 3149346405245926036
+    second: Sprite BEE-MO_8
+  - first:
+      213: 1911422958392889020
+    second: Sprite BEE-MO_9
+  - first:
+      213: 1854498981337404418
+    second: Sprite BEE-MO_10
+  - first:
+      213: -2046060851904754059
+    second: Sprite BEE-MO_11
+  - first:
+      213: -2973520568104835706
+    second: Sprite BEE-MO_12
+  - first:
+      213: -5128049893447933860
+    second: Sprite BEE-MO_13
+  - first:
+      213: -4878411012195363006
+    second: Sprite BEE-MO_14
+  - first:
+      213: -2149627787641452987
+    second: Sprite BEE-MO_15
+  - first:
+      213: -5291001901992652538
+    second: Sprite BEE-MO_16
+  - first:
+      213: 2481948668925856251
+    second: Sprite BEE-MO_17
+  - first:
+      213: 6026065776597456371
+    second: Sprite BEE-MO_18
+  - first:
+      213: -17351523087587621
+    second: Sprite BEE-MO_19
+  - first:
+      213: -626238888162811661
+    second: Sprite BEE-MO_20
+  - first:
+      213: 3629273759464709532
+    second: Sprite BEE-MO_21
+  - first:
+      213: 4022136308270953943
+    second: Sprite BEE-MO_22
+  - first:
+      213: -7101252373452299455
+    second: Sprite BEE-MO_23
+  - first:
+      213: 2455341529172522827
+    second: Sprite BEE-MO_24
+  - first:
+      213: 5255355313627024886
+    second: Sprite BEE-MO_25
+  - first:
+      213: 3398212582260003458
+    second: Sprite BEE-MO_26
+  - first:
+      213: -7023355870442667334
+    second: Sprite BEE-MO_27
+  - first:
+      213: 5559499207157708483
+    second: Sprite BEE-MO_28
+  - first:
+      213: 7951009477950431539
+    second: Sprite BEE-MO_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 72
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprite BEE-MO_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 864
+        width: 42
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dbb94a139e2a01a0800000000000000
+      internalID: -6842605474499937327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite BEE-MO_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 864
+        width: 42
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c83ea0db6fb186a0800000000000000
+      internalID: -6448662721634355008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite BEE-MO_2
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 864
+        width: 42
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149d4adcc0ff0b3f0800000000000000
+      internalID: -886928696137164479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite BEE-MO_3
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 864
+        width: 42
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa2773dcd99bad00800000000000000
+      internalID: 985050117230242548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite BEE-MO_4
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 864
+        width: 42
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af227a94d9c417fa0800000000000000
+      internalID: -5804774206274592006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite BEE-MO_5
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 864
+        width: 42
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d4042d3d715c6e0800000000000000
+      internalID: -1818020676041159365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite BEE-MO_6
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 864
+        width: 42
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a132c002f865eb0800000000000000
+      internalID: -4731436990700774864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite BEE-MO_7
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 720
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7aa7bd539c9f0a0800000000000000
+      internalID: -6847220525287430211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite BEE-MO_8
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 720
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a365f9ed9b4bb20800000000000000
+      internalID: 3149346405245926036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite BEE-MO_9
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 720
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbec882bd0db68a10800000000000000
+      internalID: 1911422958392889020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite BEE-MO_10
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 720
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20490fa7ff08cb910800000000000000
+      internalID: 1854498981337404418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite BEE-MO_11
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 720
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e4265ee7eea93e0800000000000000
+      internalID: -2046060851904754059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite BEE-MO_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 576
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6852bc53cceebb6d0800000000000000
+      internalID: -2973520568104835706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite BEE-MO_13
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 576
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c506e8e9ac185d8b0800000000000000
+      internalID: -5128049893447933860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite BEE-MO_14
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 576
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247ddb508076c4cb0800000000000000
+      internalID: -4878411012195363006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite BEE-MO_15
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 576
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54682569aecfa22e0800000000000000
+      internalID: -2149627787641452987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite BEE-MO_16
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 576
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601dfc59dc59296b0800000000000000
+      internalID: -5291001901992652538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite BEE-MO_17
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 576
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9441a1a27a17220800000000000000
+      internalID: 2481948668925856251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite BEE-MO_18
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 576
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5da3775e2e0a350800000000000000
+      internalID: 6026065776597456371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite BEE-MO_19
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 576
+        width: 69
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd66d06b1ea52cff0800000000000000
+      internalID: -17351523087587621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite BEE-MO_20
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 434
+        width: 54
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f025869c072f47f0800000000000000
+      internalID: -626238888162811661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite BEE-MO_21
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 434
+        width: 54
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d5a896145cd5230800000000000000
+      internalID: 3629273759464709532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite BEE-MO_22
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 434
+        width: 54
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5f0b489af71d730800000000000000
+      internalID: 4022136308270953943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite BEE-MO_23
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 434
+        width: 54
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143e9f32798437d90800000000000000
+      internalID: -7101252373452299455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite BEE-MO_24
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 434
+        width: 54
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47b790ac10231220800000000000000
+      internalID: 2455341529172522827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite BEE-MO_25
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 290
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd433d40d5cee840800000000000000
+      internalID: 5255355313627024886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite BEE-MO_26
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 290
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282dedcc650e82f20800000000000000
+      internalID: 3398212582260003458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite BEE-MO_27
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 290
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab24c131c07088e90800000000000000
+      internalID: -7023355870442667334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite BEE-MO_28
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 290
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c673bbc21f472d40800000000000000
+      internalID: 5559499207157708483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite BEE-MO_29
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 290
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331eff27ef8a75e60800000000000000
+      internalID: 7951009477950431539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Box
+  - Health
+  - Kunci
+  - Puzzle
+  - Trap
+  - Trigger1
+  - Trigger2
+  - Library
+  - Basement
+  - Spike
+  - TriggerSpesial
+  - Kacamata
+  - Tutor
+  - Chara
+  - Kotak
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Background
+  - Box
+  - Peti
+  - Trap
+  - Post Processing
+  - 
+  - 
+  - 
+  - 
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Floor
+    uniqueID: 1576551643
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Outer Wall
+    uniqueID: 3702213599
+    locked: 0
+  - name: Inner Wall
+    uniqueID: 2134837299
+    locked: 0
